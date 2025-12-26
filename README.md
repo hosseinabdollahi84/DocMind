@@ -61,6 +61,14 @@ All AI processing is performed **locally on the device** after a one-time model 
 - All AI inference runs on the device CPU
 
 ---
+---
+
+## 🧭 Planned Features
+
+- 🖼️ Image-based documents support (OCR)
+- 📄 Support for additional document formats 
+- 🔎 Improved search across multiple document types
+
 
 ## 🛠️ Tech Stack & Architecture
 
