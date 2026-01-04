@@ -85,7 +85,7 @@ class HomeView extends StatelessWidget {
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       color: Colors.grey,
-                      height: 1.5,
+                      height: 1.4,
                       fontSize: 14,
                     ),
                   ),
@@ -98,7 +98,7 @@ class HomeView extends StatelessWidget {
                       color: Colors.deepPurple,
                       borderRadius: BorderRadius.circular(4),
                     ),
-                    const SizedBox(height: 16),
+                    const SizedBox(height: 17),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
@@ -142,7 +142,7 @@ class HomeView extends StatelessWidget {
                         ),
                       ),
                     ),
-                    const SizedBox(height: 12),
+                    const SizedBox(height: 13),
                     TextButton(
                       onPressed: () {
                         Navigator.pop(context);
